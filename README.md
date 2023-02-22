@@ -2,7 +2,7 @@ In love with programming, kittens and Satoshi Kon movies. Love to learn and disc
 
 I study Java, Spring Framework ecosystem, ReactJS.
 
-Skills:
+## Skills:
 - Java 8+
 - ReactJS
 - Spring Boot
