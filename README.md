@@ -16,5 +16,7 @@ Skills:
 - RabbitMQ
 - Docker
 - ReduxJS / Redux Toolkit
+- PostgreSQL, a little bit MongoDB
+- Git
 
 In the pinned repositories you can see my pet projects where all of the above technologies have been used to a greater or lesser degree
