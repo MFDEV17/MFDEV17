@@ -1,4 +1,6 @@
-In love with programming, kittens and Satoshi Kon movies. Love to learn and discover new things and technologies
+In love with programming, kittens and Satoshi Kon movies. 
+
+Love to learn and discover new things and technologies
 
 I study Java, Spring Framework ecosystem, ReactJS.
 
@@ -15,7 +17,7 @@ I study Java, Spring Framework ecosystem, ReactJS.
 - Project Reactor / a little bit RxJava
 - RabbitMQ
 - Docker
-- ReduxJS / Redux Toolkit
+- ReduxJS / Redux Toolkit / RTK Query
 - PostgreSQL, a little bit MongoDB
 - Swagger
 ##
