@@ -16,6 +16,7 @@ I study Java, Spring Framework ecosystem, ReactJS.
 - Docker
 - ReduxJS / Redux Toolkit
 - PostgreSQL, a little bit MongoDB
+- Swagger
 ##
 
 In the pinned repositories you can see my pet projects where all of the above technologies have been used to a greater or lesser degree
