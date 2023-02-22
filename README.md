@@ -1,4 +1,5 @@
 In love with programming, kittens and Satoshi Kon movies
+
 Love to learn and discover new things and technologies
 
 I study Java, Spring Framework ecosystem, ReactJS.
