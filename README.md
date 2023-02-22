@@ -6,6 +6,7 @@ I study Java, Spring Framework ecosystem, ReactJS.
 
 ## Skills:
 - Java 8+
+- TypeScript / JavaScript
 - ReactJS
 - Spring Boot
 - Spring Web / WebFlux
@@ -15,7 +16,7 @@ I study Java, Spring Framework ecosystem, ReactJS.
 - Spring Cloud
 - Hibernate
 - Project Reactor / a little bit RxJava
-- RabbitMQ
+- RabbitMQ (in Spring ecosystem context)
 - Docker
 - ReduxJS / Redux Toolkit / RTK Query
 - PostgreSQL, a little bit MongoDB
