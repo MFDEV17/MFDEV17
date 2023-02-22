@@ -6,7 +6,7 @@ I study Java, Spring Framework ecosystem, ReactJS.
 
 ## Skills:
 - Java 8+
-- TypeScript / JavaScript (I have no in-depth knowledge of these languages, I use them only for writing ReactJS applications)
+- TypeScript / JavaScript (No in-depth knowledge of these languages, I use them only for writing ReactJS applications)
 - ReactJS
 - Spring Boot
 - Spring Web / WebFlux
