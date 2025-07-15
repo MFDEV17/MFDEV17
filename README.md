@@ -1,1 +1,1 @@
-I have a computer
+I have a computer.
